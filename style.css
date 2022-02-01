@@ -1,0 +1,36 @@
+body, html{
+    background-color: rgb(58, 58, 58);
+    color: white;
+}
+
+.drop{
+    display: flex;
+    justify-content: center;
+    margin:10% 0;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 2em 1em;
+}
+
+.displayIcon{
+    width: 1.5em;
+    height: auto;
+    object-fit: contain;
+    margin-left: 1em;
+}
+
+.flex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 2em 1em;
+}
+
+.fullPortrait{
+    width: 100%;
+    padding-bottom: 6%;
+}
