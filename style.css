@@ -1,5 +1,5 @@
 body, html{
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(31, 31, 31);
     color: white;
 }
 
@@ -33,4 +33,5 @@ body, html{
 .fullPortrait{
     width: 100%;
     padding-bottom: 6%;
+    
 }
